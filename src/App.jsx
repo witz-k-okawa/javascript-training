@@ -47,7 +47,7 @@ const App = () => {
 
   return (
     <>
-      <div>
+      <div className="input-area">
         <input
           id="add-text"
           placeholder="TODOを入力"
